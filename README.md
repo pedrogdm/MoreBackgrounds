@@ -6,7 +6,7 @@ Adds unique homebrew backgrounds to the game.
 
 Background selection:
 * Oblate:
-  * Red Mantis
+  * ### Red Mantis
     * Stealth and Mobility class skills
     * Sawtooth Sabre proficiency
     * Blind Fight feat
