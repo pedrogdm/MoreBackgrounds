@@ -1,0 +1,11 @@
+{
+  "Id": "MoreBackgrounds",
+  "DisplayName": "MoreBackgrounds",
+  "Author": "",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.28.2",
+  "Requirements": [],
+  "AssemblyName": "MoreBackgrounds.dll",
+  "EntryMethod": "MoreBackgrounds.Main.Load"
+}
+

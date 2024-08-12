@@ -1,0 +1,59 @@
+[
+  //
+  // BACKGROUNDS
+  //
+  {
+    "Key": "Crossbowman.Name",
+    "ProcessTemplates": false,
+    "enGB": "Crossbowman"
+  },
+
+  {
+    "Key": "Crossbowman.Description",
+    "enGB": "Crossbowman adds {g|Encyclopedia:Perception}Perception{/g} and {g|Encyclopedia:Stealth}Stealth{/g} to the list of his class {g|Encyclopedia:Skills}skills{/g}. He also becomes proficient with the light crossbow and heavy crossbow. He can also use his {g|Encyclopedia:Dexterity}Dexterity{/g} modifier for damage with crossbows. \nIf the character already has the class skill, {g|Encyclopedia:Weapon_Proficiency}weapon proficiency{/g} or armor proficiency granted by the selected background from her class during character creation, then the corresponding bonuses from background change to a +1 competence bonus in case of skills, a +1 enhancement bonus in case of weapon proficiency and a -1 Armor {g|Encyclopedia:Check}Check{/g} {g|Encyclopedia:Penalty}Penalty{/g} reduction in case of armor proficiency."
+  },
+
+  {
+    "Key": "Pikeman.Name",
+    "ProcessTemplates": false,
+    "enGB": "Pikeman"
+  },
+
+  {
+    "Key": "Pikeman.Description",
+    "enGB": "Pikeman adds {g|Encyclopedia:Athletics}Athletics{/g} to the list of his class {g|Encyclopedia:Skills}skills{/g}. He also becomes proficient with the longspear, glaive, bardiche and fauchard. He also gains the lunge feat. \nIf the character already has the class skill, {g|Encyclopedia:Weapon_Proficiency}weapon proficiency{/g} or armor proficiency granted by the selected background from her class during character creation, then the corresponding bonuses from background change to a +1 competence bonus in case of skills, a +1 enhancement bonus in case of weapon proficiency and a -1 Armor {g|Encyclopedia:Check}Check{/g} {g|Encyclopedia:Penalty}Penalty{/g} reduction in case of armor proficiency."
+  },
+
+  {
+    "Key": "Sarkorian.Name",
+    "ProcessTemplates": false,
+    "enGB": "Sarkorian Survivor"
+  },
+
+  {
+    "Key": "Sarkorian.Description",
+    "enGB": "Sarkorian Survivor adds {g|Encyclopedia:Lore_Nature}Lore (nature){/g} and {g|Encyclopedia:Athletics}Athletics{/g} to the list of his class {g|Encyclopedia:Skills}skills{/g}. He also becomes proficient with the greataxe, greatsword and falchion. He also gains the diehard feat. \nIf the character already has the class skill, {g|Encyclopedia:Weapon_Proficiency}weapon proficiency{/g} or armor proficiency granted by the selected background from her class during character creation, then the corresponding bonuses from background change to a +1 competence bonus in case of skills, a +1 enhancement bonus in case of weapon proficiency and a -1 Armor {g|Encyclopedia:Check}Check{/g} {g|Encyclopedia:Penalty}Penalty{/g} reduction in case of armor proficiency."
+  },
+
+  {
+    "Key": "KnightErrant.Name",
+    "ProcessTemplates": false,
+    "enGB": "Knight Errant"
+  },
+
+  {
+    "Key": "KnightErrant.Description",
+    "enGB": "Knight Errant adds {g|Encyclopedia:Knowledge_World}Knowledge (world){/g} and {g|Encyclopedia:Mobility}Mobility{/g} to the list of his class {g|Encyclopedia:Skills}skills{/g}. He also becomes proficient with the longsword and bastard sword. He also gains a +2 bonus on attack rolls when fighting defensively. \nIf the character already has the class skill, {g|Encyclopedia:Weapon_Proficiency}weapon proficiency{/g} or armor proficiency granted by the selected background from her class during character creation, then the corresponding bonuses from background change to a +1 competence bonus in case of skills, a +1 enhancement bonus in case of weapon proficiency and a -1 Armor {g|Encyclopedia:Check}Check{/g} {g|Encyclopedia:Penalty}Penalty{/g} reduction in case of armor proficiency."
+  },
+
+  {
+    "Key": "RedMantis.Name",
+    "ProcessTemplates": false,
+    "enGB": "Red Mantis"
+  },
+
+  {
+    "Key": "RedMantis.Description",
+    "enGB": "Red Mantis adds {g|Encyclopedia:Stealth}Stealth{/g} and {g|Encyclopedia:Mobility}Mobility{/g} to the list of his class {g|Encyclopedia:Skills}skills{/g}. He also becomes proficient with the sawtooth sabre. He also gains the blind fight feat. \nIf the character already has the class skill, {g|Encyclopedia:Weapon_Proficiency}weapon proficiency{/g} or armor proficiency granted by the selected background from her class during character creation, then the corresponding bonuses from background change to a +1 competence bonus in case of skills, a +1 enhancement bonus in case of weapon proficiency and a -1 Armor {g|Encyclopedia:Check}Check{/g} {g|Encyclopedia:Penalty}Penalty{/g} reduction in case of armor proficiency."
+  }
+]
